@@ -9,7 +9,7 @@ Short demo for my serverless talk
 ## Python demo
 
 ```
-kubeless function deploy hello --from file python/test.py --handler test.hello --runtime python2.7
+kubeless function deploy hello --from-file python/test.py --handler test.hello --runtime python2.7
 ```
 
 ```
